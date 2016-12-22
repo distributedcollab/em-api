@@ -36,7 +36,7 @@
 	<parent>
 		<artifactId>em-api</artifactId>
 		<groupId>edu.mit.ll.em.api</groupId>
-		<version>6.4-SNAPSHOT</version>
+		<version>6.4</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 	<packaging>war</packaging>
